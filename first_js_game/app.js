@@ -1,5 +1,5 @@
 let opt=document.querySelectorAll("button"); 
-let p=document.querySelector("p");
+let p=document.querySelector("#status-message");
 let my_score=document.querySelector("#my_score");
 let com_score=document.querySelector("#com_score");
 
